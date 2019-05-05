@@ -1,0 +1,19 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">UnitConverter</string>
+
+    <string-array name="temp_array">
+        <item>Celcius to Fahrenheit</item>
+        <item>Fahrenheit to Celcius</item>
+
+    </string-array>
+    <string-array name="mass_array">
+        <item>Kilogram to Pound</item>
+        <item android:textColor="@color/colorPrimaryDark" android:textSize="24dp" android:textStyle="bold">Pound To Kilogram</item>
+
+    </string-array>
+    <string-array name="length_array">
+        <item>Kilometer to Mile</item>
+        <item>Mile to Kilometer</item>
+
+    </string-array>
+</resources>
